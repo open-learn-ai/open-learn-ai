@@ -62,13 +62,12 @@ All content is open source. All contributions are credited. All improvements ben
 ### Quick Start
 
 ```bash
-git clone https://github.com/[org]/open-learn-ai.git
+git clone https://github.com/open-learn-ai/open-learn-ai.git
 cd open-learn-ai
-pip install -r requirements.txt
 
 # Start Module 0
 cd module-0-first-contact
-python lesson_01_run_local_llm.py
+# Open lesson-01-what-is-an-llm.md and begin reading
 ```
 
 ---

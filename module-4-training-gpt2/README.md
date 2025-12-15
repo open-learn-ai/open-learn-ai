@@ -100,7 +100,7 @@ Bonus:
 
 | Parameter | GPT-2 124M | What It Teaches |
 |-----------|------------|-----------------|
-| Parameters | 124M | Small by 2024 standards, still useful |
+| Parameters | 124M | Small by 2025 standards, still useful |
 | Layers | 12 | Depth matters |
 | Heads | 12 | Multi-head attention scales |
 | Embedding | 768 | Wider = more capacity |

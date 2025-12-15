@@ -48,7 +48,7 @@ Create comprehensive module on fine-tuning open models:
 
 **Status**: OPEN
 **Deadline**: Rolling
-**Claim**: Comment on Issue #XXX
+**Claim**: [Open an issue to claim](https://github.com/open-learn-ai/open-learn-ai/issues/new)
 
 ---
 
@@ -69,7 +69,7 @@ Build RAG system without frameworks:
 - [ ] Documentation explains tradeoffs
 
 **Status**: OPEN
-**Claim**: Comment on Issue #XXX
+**Claim**: [Open an issue to claim](https://github.com/open-learn-ai/open-learn-ai/issues/new)
 
 ---
 
@@ -90,7 +90,7 @@ Production deployment guide:
 - [ ] Security considerations documented
 
 **Status**: OPEN
-**Claim**: Comment on Issue #XXX
+**Claim**: [Open an issue to claim](https://github.com/open-learn-ai/open-learn-ai/issues/new)
 
 ---
 
@@ -113,7 +113,7 @@ Create 5 progressive exercises for attention:
 - Estimated times per exercise
 
 **Status**: OPEN
-**Claim**: Comment on Issue #XXX
+**Claim**: [Open an issue to claim](https://github.com/open-learn-ai/open-learn-ai/issues/new)
 
 ---
 
@@ -128,7 +128,7 @@ Create 5 progressive exercises for attention:
 5. Visualize computation graph
 
 **Status**: OPEN
-**Claim**: Comment on Issue #XXX
+**Claim**: [Open an issue to claim](https://github.com/open-learn-ai/open-learn-ai/issues/new)
 
 ---
 
@@ -147,7 +147,7 @@ Interactive visualizations for:
 - Clear documentation
 
 **Status**: OPEN
-**Claim**: Comment on Issue #XXX
+**Claim**: [Open an issue to claim](https://github.com/open-learn-ai/open-learn-ai/issues/new)
 
 ---
 
@@ -164,7 +164,7 @@ Comprehensive review of existing exercises:
 - Submit fixes for issues
 
 **Status**: OPEN
-**Claim**: Comment on Issue #XXX
+**Claim**: [Open an issue to claim](https://github.com/open-learn-ai/open-learn-ai/issues/new)
 
 ---
 
@@ -178,7 +178,7 @@ Create video content for micrograd module:
 - Post to YouTube (we'll feature)
 
 **Status**: OPEN
-**Claim**: Comment on Issue #XXX
+**Claim**: [Open an issue to claim](https://github.com/open-learn-ai/open-learn-ai/issues/new)
 
 ---
 
@@ -196,7 +196,7 @@ Translate modules to Spanish:
 - Technical accuracy maintained
 
 **Status**: OPEN (all modules)
-**Claim**: Comment on Issue #XXX
+**Claim**: [Open an issue to claim](https://github.com/open-learn-ai/open-learn-ai/issues/new)
 
 ---
 
@@ -307,4 +307,4 @@ Bounties are funded by:
 | Community donations | $0 | Accepting |
 | Corporate sponsors | $0 | Seeking |
 
-*Updated: [date]*
+*Updated: December 2025*

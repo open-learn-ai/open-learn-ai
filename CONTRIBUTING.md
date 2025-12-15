@@ -248,6 +248,6 @@ Look for issues labeled `good first issue`:
 
 - **Discord**: #contributors channel
 - **GitHub**: Open a Discussion
-- **Email**: [maintainer email]
+- **Discord**: https://discord.gg/RfQhZZbRx7
 
 We want you to succeed. Ask for help.

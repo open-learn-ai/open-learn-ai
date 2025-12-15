@@ -155,4 +155,4 @@ We'll review and merge within 1 week.
 
 - **Discord**: #graduates channel
 - **GitHub**: Open an issue with `[graduation]` tag
-- **Email**: [maintainer email]
+- **Discord**: https://discord.gg/RfQhZZbRx7

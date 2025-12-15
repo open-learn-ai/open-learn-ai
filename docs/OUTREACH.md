@@ -68,7 +68,7 @@ Your videos are the core content—we're adding:
 
 Everything MIT licensed. Goal: get kids building, not just watching.
 
-Repo: [link]
+Repo: https://github.com/open-learn-ai/open-learn-ai
 
 Would mean a lot if you could take a look. Even more if you'd share it.
 
@@ -89,7 +89,7 @@ Built an open-source AI curriculum on top of @karpathy's Zero to Hero series.
 
 The content was always there. We're adding the scaffolding.
 
-[link]
+https://github.com/open-learn-ai/open-learn-ai
 ```
 
 ---
@@ -118,7 +118,7 @@ job pipeline so completers can actually get hired.
 Would value your thoughts—and if you think it's worthwhile, a signal boost
 to your audience would help us reach the students who need this most.
 
-[link]
+https://github.com/open-learn-ai/open-learn-ai
 
 [Name]
 ```
@@ -148,7 +148,7 @@ philosophy.
 Would love your feedback on the curriculum structure. And if you think it's
 valuable, happy to cross-link with fast.ai resources.
 
-[link]
+https://github.com/open-learn-ai/open-learn-ai
 ```
 
 ---
@@ -235,7 +235,7 @@ We're looking for:
 - Contributors to add exercises and improve modules
 - Companies interested in hiring from the pipeline
 
-Repo: [link]
+Repo: https://github.com/open-learn-ai/open-learn-ai
 
 Happy to answer questions about curriculum design, incentive structure, or
 anything else.

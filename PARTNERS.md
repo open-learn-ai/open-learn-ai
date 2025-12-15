@@ -49,7 +49,7 @@ When someone completes our curriculum, they've demonstrated:
 
 *Founding partners will be listed here*
 
-Interested? Contact: [email]
+Interested? [Join our Discord](https://discord.gg/RfQhZZbRx7)
 
 ---
 
@@ -156,8 +156,8 @@ A: Great! Speed through the modules, build an impressive capstone, contribute ba
 
 ## Become a Partner
 
-**Companies**: [partner application form]
-**Universities**: [email]
-**Other organizations**: [email]
+**Companies**: [Join our Discord](https://discord.gg/RfQhZZbRx7)
+**Universities**: [Join our Discord](https://discord.gg/RfQhZZbRx7)
+**Other organizations**: [Join our Discord](https://discord.gg/RfQhZZbRx7)
 
 Let's build the talent pipeline AI needs.

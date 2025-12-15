@@ -139,13 +139,13 @@ Completers of this course have:
 
 Your logo on a module. First look at graduates. Shape curriculum to your needs.
 
-Contact: [email]
+Contact: [Discord](https://discord.gg/RfQhZZbRx7)
 
 ---
 
 ## Community
 
-- **Discord**: [link] - Get help, find study partners, share progress
+- **Discord**: [Join us](https://discord.gg/RfQhZZbRx7) - Get help, find study partners, share progress
 - **Weekly Office Hours**: Live Q&A with maintainers
 - **Monthly Showcase**: Best capstone projects presented to the community
 
@@ -176,4 +176,4 @@ Use it. Fork it. Improve it. Teach it.
 
 **Want to contribute?** → [CONTRIBUTING.md](CONTRIBUTING.md)
 
-**Questions?** → [Discord](link) or [Discussions](link)
+**Questions?** → [Discord](https://discord.gg/RfQhZZbRx7) or [Discussions](https://github.com/open-learn-ai/open-learn-ai/discussions)

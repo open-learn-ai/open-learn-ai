@@ -29,3 +29,7 @@ Thumbs.db
 # Local config
 .env
 .env.local
+
+# Internal docs (not for public repo)
+docs/OUTREACH.md
+video_transcripts/
